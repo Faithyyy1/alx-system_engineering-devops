@@ -1,1 +1,1 @@
-list all files,hidden,long format and /boot directory files
+ a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory
