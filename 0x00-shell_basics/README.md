@@ -1,1 +1,1 @@
-a script that changes the working directory to the previous one
+list all files,hidden,long format and /boot directory files
